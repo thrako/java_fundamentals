@@ -70,9 +70,6 @@ Methods
 > 
 > Lambda  
 > Stream API  
-> `- Filtering`  
-> `- Mapping`  
-> `- Ordering`  
 > 
 
 [Text Processing](https://github.com/thrako/java_fundamentals/tree/main/lesson08_text_processing)
