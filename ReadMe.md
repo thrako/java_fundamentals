@@ -110,16 +110,10 @@ Git and GitHub
 > Software Configuration Management  
 > Source Control Systems  
 > Introduction to Git:   
-> `- Working with git`  
-> `- Git Bash`  
-> `- TortoiseGit` 
+> - Working with git, Git Bash, TortoiseGit 
 > 
-> Introduction to GitHub:   
-> `- Create a Repo`  
-> `- Clone`  
-> `- Commit`  
-> `- Push`  
-> `- Conflicts`  
+> Introduction to GitHub:  
+> - Create a Repo, Clone, Commit, Push, Conflicts    
 > 
 
 HTTP Basics  
@@ -152,33 +146,33 @@ Asynchronous Programming and Promises
 Software Architectures, Front-End and Back-End  
 >
 
-Software Development Concepts - Part 2
+Software Development Concepts - Part 2  
 > Front-End Development Concepts  
->  `- Web Front-End and DOM`  
->  `- AJAX and RESTful APIs ` 
->  `- Templating Engines`  
->  `- Routing and Routing Libraries`  
->  `- Libraries vs. Frameworks`  
->  `- UI Frameworks`  
->  `- Mobile Apps`  
+>  - Web Front-End and DOM  
+>  - AJAX and RESTful APIs 
+>  - Templating Engines  
+>  - Routing and Routing Libraries  
+>  - Libraries vs. Frameworks  
+>  - UI Frameworks  
+>  - Mobile Apps  
 > 
 > Back-End Development Concepts  
->  `- Databases and DBMS Systems`  
->  `- ORM Frameworks`  
->  `- The MVC Pattern`  
->  `- Virtualization, Cloud and Containers`  
->  `- Operating Systems and Linux Shell`  
+>  - Databases and DBMS Systems  
+>  - ORM Frameworks  
+>  - The MVC Pattern  
+>  - Virtualization, Cloud and Containers  
+>  - Operating Systems and Linux Shell  
 > 
-> Embedded Systems and IoT 
->  `- Arduino`  
->  `- ESP32`  
+> Embedded Systems and IoT  
+>  - Arduino  
+>  - ESP32  
 > 
 > Software Engineering Concepts  
->  `- Software Development Lifecycle`  
->  `- Software Quality Assurance (QA)`  
->  `- Unit Testing`  
->  `- Source Control Systems`  
->  `- Project Trackers and Kanban Boards`  
+>  - Software Development Lifecycle  
+>  - Software Quality Assurance (QA)  
+>  - Unit Testing  
+>  - Source Control Systems  
+>  - Project Trackers and Kanban Boards  
 >
 
 Bitwise Operations  
