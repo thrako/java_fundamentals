@@ -8,7 +8,7 @@ Logical Operators
 Loops  
 Debugging and Troubleshooting  
 > 
-[Data Types and Variables](https://github.com/thrako/java_fundamentals/tree/main/lesson02data_types_and_variables)  
+[Data Types and Variables](https://github.com/thrako/java_fundamentals/tree/main/lesson02_data_types_and_variables)  
 > Data Types and Variables  
 Integer Types  
 Real Number Types  
@@ -17,14 +17,14 @@ Boolean Type
 Character Type  
 String Type  
 > 
-[Arrays/Lists](https://github.com/thrako/java_fundamentals/tree/main/lesson03arrays)  
+[Arrays/Lists](https://github.com/thrako/java_fundamentals/tree/main/lesson03_arrays)  
 > Allocating Arrays  
 Assigning Values to Array Elements  
 Accessing Array Elements  
 Reading Arrays from the Console  
 Foreach Loop  
 > 
-[Methods/Functions](https://github.com/thrako/java_fundamentals/tree/main/lesson04methods)  
+[Methods/Functions](https://github.com/thrako/java_fundamentals/tree/main/lesson04_methods)  
 > Declaring and Invoking Methods  
 Naming and Best Practices  
 Void and Return Type Methods  
@@ -33,19 +33,19 @@ Value vs. Reference Types
 Overloading Methods  
 Program Execution Flow  
 > 
-[Lists/Arrays Advanced](https://github.com/thrako/java_fundamentals/tree/main/lesson05lists)  
+[Lists/Arrays Advanced](https://github.com/thrako/java_fundamentals/tree/main/lesson05_lists)  
 > Lists Overview  
 List Manipulating  
 Reading Lists from the Console  
 Sorting Lists and Arrays  
 >
-[Past Exams Mid - practice](https://github.com/thrako/java_fundamentals/tree/main/past_exams/mid)  
+[Exam Preparation - Mid Exam](https://github.com/thrako/java_fundamentals/tree/main/practice_past_exams/mid)  
 [My Mid Exam](https://github.com/thrako/java_fundamentals/tree/main/my_exams/mid20220625)  
 > 01 The Hunting Games  
 02 Tax Calculator  
 03 The Angry Cat  
 > 
-[Objects and Classes](https://github.com/thrako/java_fundamentals/tree/main/lesson06objects)  
+[Objects and Classes](https://github.com/thrako/java_fundamentals/tree/main/lesson06_objects)  
 >Objects  
 Classes  
 Built in Classes  
@@ -54,7 +54,7 @@ Fields
 Constructors  
 Methods  
 > 
-[Associative Arrays / Dictionaries](https://github.com/thrako/java_fundamentals/tree/main/lesson07associative_lambda_stream)  
+[Associative Arrays / Dictionaries](https://github.com/thrako/java_fundamentals/tree/main/lesson07_associative_lambda_stream_API)  
 > Associative Arrays  
 > - HashMap <key, value>  
 > - LinkedHashMap <key, value>  
@@ -66,12 +66,12 @@ Methods
 > - Mapping  
 > - Ordering  
 > 
-[Text Processing](https://github.com/thrako/java_fundamentals/tree/main/lesson08text_processing)
+[Text Processing](https://github.com/thrako/java_fundamentals/tree/main/lesson08_text_processing)
 > Strings  
 Manipulating Strings  
 Building and Modifying Strings  
 > 
-[Regular Expressions](https://github.com/thrako/java_fundamentals/tree/main/lesson09regex)
+[Regular Expressions](https://github.com/thrako/java_fundamentals/tree/main/lesson09_regex)
 > Regular Expressions Syntax  
 Definition and Pattern  
 Predefined Character Classes  
@@ -80,8 +80,8 @@ Backreferences
 Regular Expressions in Java  
 > 
 
-[Past Exams Final - practice](https://github.com/thrako/java_fundamentals/tree/main/past_exams/fin)  
-[My Final Exam](https://github.com/thrako/java_fundamentals/tree/main/my_exams)  
+[Exam Preparation - Final Exam](https://github.com/thrako/java_fundamentals/tree/main/practice_past_exams/fin)  
+[My Final Exam](https://github.com/thrako/java_fundamentals/tree/main/my_exams/fin20220807)  
 > Hogwarts  
 Encrypting Password  
 Messages Manager
